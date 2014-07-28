@@ -3,6 +3,9 @@
 Yet another curated list of resources, for Emacs.
 
 ## Tutorials
+- [Emacs wiki](http://www.emacswiki.org/) - probably the most comprehensive
+  Emacs resource online
+- [Emacs rocks](http://emacsrocks.com/) - a collection of 3-minute screencasts
 
 ## Books
 - [GNU Emacs manual](http://www.gnu.org/software/emacs/manual/), Stallman et
@@ -13,5 +16,5 @@ Yet another curated list of resources, for Emacs.
 - [An introduction to programming in Emacs Lisp](http://www.gnu.org/software/emacs/manual/eintr.html)
 
 ## Blogs
-
-
+- [Emacs-fu](http://emacs-fu.blogspot.com/)
+- [What the .emacs.d](http://whattheemacsd.com/) - posts on setting up your Emacs
