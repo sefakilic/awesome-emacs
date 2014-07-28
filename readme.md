@@ -17,4 +17,8 @@ Yet another curated list of resources, for Emacs.
 
 ## Blogs
 - [Emacs-fu](http://emacs-fu.blogspot.com/)
+- [Mastering Emacs](http://www.masteringemacs.org/)
 - [What the .emacs.d](http://whattheemacsd.com/) - posts on setting up your Emacs
+
+## Misc
+- [dot files](http://dotfiles.org/.emacs) - a collection of Emacs initialization files
