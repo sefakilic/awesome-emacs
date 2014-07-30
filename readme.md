@@ -8,15 +8,14 @@ Yet another curated list of resources, for Emacs.
 - [Emacs rocks](http://emacsrocks.com/) - a collection of 3-minute screencasts
 
 ## Books
-- [GNU Emacs manual](http://www.gnu.org/software/emacs/manual/), Stallman et
-  al.
-- [Learning GNU Emacs](http://shop.oreilly.com/product/9780596006488.do), 3rd
-  Edition, Cameron et al.
-- [GNU Emacs pocket reference](https://www.goodreads.com/book/show/889149.GNU_Emacs_Pocket_Reference),
-  Cameron et al.
+- [GNU Emacs manual](http://www.gnu.org/software/emacs/manual/)
+- [Learning GNU Emacs](http://shop.oreilly.com/product/9780596006488.do)
+- [GNU Emacs pocket reference](https://www.goodreads.com/book/show/889149.GNU_Emacs_Pocket_Reference)
 - [GNU Emacs Lisp reference manual](http://www.gnu.org/software/emacs/manual/elisp.html)
 - [An introduction to programming in Emacs Lisp](http://www.gnu.org/software/emacs/manual/eintr.html)
-
+- [Writing GNU Emacs extensions](https://www.goodreads.com/book/show/1639039)
+- [The Org Mode 7 reference manual](http://www.network-theory.co.uk/org/manual/)
+  
 ## Blogs
 - [Emacs-fu](http://emacs-fu.blogspot.com/)
 - [Mastering Emacs](http://www.masteringemacs.org/)
