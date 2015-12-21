@@ -20,6 +20,12 @@ Yet another curated list of resources, for Emacs.
 - [Emacs-fu](http://emacs-fu.blogspot.com/)
 - [Mastering Emacs](http://www.masteringemacs.org/)
 - [What the .emacs.d](http://whattheemacsd.com/) - posts on setting up your Emacs
+- [Pragmatic Emacs](http://pragmaticemacs.com/)
+- [Planet Emacsen](http://planet.emacsen.org)
+- [Sacha Chua's blog](http://sachachua.com/blog/)
+- [Emacs NYC meetup](http://emacsnyc.org)
+- [Emacs Redux](http://emacsredux.com/)
+- [Endless Parentheses](http://endlessparentheses.com/)
 
 ## Misc
 - [dot files](http://dotfiles.org/.emacs) - a collection of Emacs initialization files
